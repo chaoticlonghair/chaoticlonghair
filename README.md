@@ -1,12 +1,16 @@
 ### Who am I?
 
-See [my "About Me" page](https://yangby-cryptape.github.io/about).
+See [my "About Me" page](https://chaoticlonghair.github.io/about).
 
 ### My Current Status
 
 - Recovering from a surgery since June 2022.
 
-- Starting a new journey of life.
+- ~~Feeling tired and lost since December 2023.~~
+
+- Starting a new journey of life since February 2025.
+
+- Bad days are gone.
 
 ### My Coding Activity
 
