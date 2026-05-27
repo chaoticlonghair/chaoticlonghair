@@ -1,6 +1,6 @@
 ### Who am I?
 
-See [my "About Me" page](https://chaoticlonghair.github.io/about).
+See [my "About Me" page](https://chaoticlonghair.pages.dev/about).
 
 ### My Current Status
 
